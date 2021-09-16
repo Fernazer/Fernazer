@@ -15,9 +15,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/rafli_fernazer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://youtu.be/lLodz2UzUNg"><img src="https://img.shields.io/badge/YouTube-Fernazer-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/Fernazer" /><br>
    <a href="https://github.com/Fernazer"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/Fernazer"><img src="https://img.shields.io/youtube/channel/subscribers/1,265?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=Fernazer&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Fernazer&color=blue&style=flat-square&label=Profile+View"></a>
-  </p>
 
 ## Github Statistic
 
